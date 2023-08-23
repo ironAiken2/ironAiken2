@@ -33,6 +33,7 @@
   - `React-Native` `TypeScript` `Django` `Figma Design & Wireframe`
   - [Repo](https://github.com/goteuk-hater)
 
+- `1st Place1 Juntion ASIA 2023, Track 'JAKA' Winner
 - `4th Place` 세종대학교 소프트웨어융합대학 학술제 (2022)
   - 15.GG(4등상)
 - `2th Place` 세종대학교 컴퓨터공학과 학술제 (2022)
